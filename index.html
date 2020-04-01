@@ -134,9 +134,15 @@
                               <input type="radio" name="color">
                            </div>
                            <div class="addtocard_number" data-aos="zoom-out">
-                              <div class="nbtn n_min">-</div>
-                              <div class="nbtn n_qtu">2</div>
-                              <div class="nbtn n_mix">+</div>
+
+							<form>
+							<div class="value-button nbtn n_min" id="decrease" onclick="decreaseValue()" value="Decrease Value">-</div>
+							<div id="addtocarnumb">
+							<input class="nbtn n_qtu" type="" id="number" value="0" />
+							</div>
+							<div class="value-button nbtn n_mix" id="increase" onclick="increaseValue()" value="Increase Value">+</div>
+							</form>
+
                               <div class="addtocard_btn">
                                  <a href="#." animated pulse>Add to Cart </a>
                               </div>
@@ -304,6 +310,7 @@
          	theme: "dark"
          });
          
-      </script>
+      </script>	  
+	  
    </body>
 </html>
