@@ -1,4 +1,4 @@
-# Hinduja_Global_Solution  Demo Link : https://brijeshkpsingh.com/dribbble/index.html 
+# Hinduja_Global_Solution  
 Demo Link : https://brijeshkpsingh.com/dribbble/index.html 
 
 Below points is done
