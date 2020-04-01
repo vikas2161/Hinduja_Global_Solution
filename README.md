@@ -12,3 +12,4 @@ Below points is done
 8. Video pop-up in jQuery
 9. Smooth scroll bottom to top 
 10. Css3 and HTML 5 use
+11. increase add decrease value in add to card 
