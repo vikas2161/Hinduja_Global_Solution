@@ -5,7 +5,7 @@ Below points is done
 1. Favicon generator
 2. All use custom css 
 3. Toggle menu done in jQuery
-4. Search in jQuery
+4. Search toggle in jQuery
 5. Animated css and aos animation use
 6. Google font use
 7. Scroll effect script use
